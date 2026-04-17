@@ -23,15 +23,15 @@
 ## ⚙️ Setup Instructions
 
 ### Backend
-cd backend
+cd Backend
 npm install
-node server.js
+node Server.js
 
-### Frontend
+Frontend
 cd frontend
 npm install
 npm start
 
 
-## ⚠️ Note
-This project uses MongoDB instead of PostgreSQL for faster development.
+Database
+ MongoDB 
